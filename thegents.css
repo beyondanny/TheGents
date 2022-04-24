@@ -1,0 +1,119 @@
+body {
+  background-image: url('nice.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  font-family: 'San Francisco', Helvetica, Arial, san-serif;
+  text-shadow: 3px 3px #070201;
+  font-size: 200%;
+}
+h2 {
+	color: white;
+	text-shadow: 2px 2px #070201;
+	font-family: 'San Francisco', Helvetica, Arial, san-serif;
+    text-shadow: 2px 2px #070201;
+    font-size: 150%;
+}
+h3 {
+	color: white;
+	text-shadow: 2px 2px #070201;
+	font-family: 'San Francisco', Helvetica, Arial, san-serif;
+    text-shadow: 2px 2px #070201;
+    font-size: 150%;
+}
+p  {
+  color: white;
+  font-family: 'San Francisco', Helvetica, Arial, san-serif;
+  text-shadow: 2px 2px #070201;
+  font-size: 160%;
+}
+div {
+  display: block;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.about1 {
+  margin: auto;
+  width: 300px;
+  height: 560px;
+  padding: 50px;
+  border: 10px solid #000000;
+  position: absolute;
+  top: 89%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 100%;
+  background-color: #0C9ABF;
+}
+.about2 {
+  margin: auto;
+  width: 600px;
+  height: 760px;
+  padding: 50px;
+  border: 10px solid #000000;
+  position: absolute;
+  top: 108%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 100%;
+  background-color: #13B2F4;
+}
+.middle {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  box-shadow: -1em 0 .4em #000000;
+}
+.uturn {
+  display: block;
+  margin-left: 5%;
+  width: 100px;
+  box-shadow: -1em 0 .4em #000000;
+  float: left;
+  padding: 0 10px 0 0;
+}
+.newp {
+  color: white;
+  font-family: 'San Francisco', Helvetica, Arial, san-serif;
+  text-shadow: 3px 3px #070201;
+  font-size: 100%;
+}
+a:link {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+  font-family: 'San Francisco', Helvetica, Arial, san-serif;
+  font-size: 150%;
+  text-shadow: 2px 2px #070201;
+}
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+  font-family: 'San Francisco', Helvetica, Arial, san-serif;
+  font-size: 150%;
+  text-shadow: 2px 2px #070201;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+}
